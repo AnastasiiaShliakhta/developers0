@@ -8,17 +8,17 @@ primary_tag: products>sap-business-technology-platform
 tags: [ tutorial>beginner, programming-tool>python]
 author_name: Anastasiia Shliakhta
 author_profile: https://github.com/AnastasiiaShliakhta
-contributors: [ Test Test > https://github.com/BigotryOps, Maksym Hornostai > https://github.com/maximilianone, Anastasiia Test > https://github.com/AnastasiiaShliakhta ]
+contributors: []
 
 ---
 
-# Luigi getting started tb-copy?
+# Luigi getting started tb-copy
 <!-- description --> The VM defaults to an English (US) QWERTY keyboard, and the UTC time zone. When prompted, change the keyboard layout and time zone to match your location, or accept the defaults.
 
 ## You will learn
-  - What micro-frontends are?
-  - What the Luigi project is?
-  - Luigi terminology?
+  - What micro-frontends are
+  - What the Luigi project is
+  - Luigi terminology
 
 ---
 
