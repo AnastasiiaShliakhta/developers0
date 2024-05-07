@@ -16,9 +16,9 @@ contributors: [ Test Test > https://github.com/BigotryOps, Maksym Hornostai > ht
 <!-- description --> The VM defaults to an English (US) QWERTY keyboard, and the UTC time zone. When prompted, change the keyboard layout and time zone to match your location, or accept the defaults.
 
 ## You will learn
-  - What micro-frontends are
-  - What the Luigi project is
-  - Luigi terminology
+  - What micro-frontends are?
+  - What the Luigi project is?
+  - Luigi terminology?
 
 ---
 
