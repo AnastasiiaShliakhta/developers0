@@ -8,7 +8,7 @@ primary_tag: products>sap-business-technology-platform
 tags: [ tutorial>beginner, programming-tool>python]
 author_name: Anastasiia Shliakhta
 author_profile: https://github.com/AnastasiiaShliakhta
-contributors: [ Dmytro Ivanov > https://github.com/IvanovDmytroA, Test Test > https://github.com/BigotryOps, Maksym Hornostai > https://github.com/maximilianone, Anastasiia Shliakhta > https://github.com/AnastasiiaShliakhta ]
+contributors: [ Test Test > https://github.com/BigotryOps, Maksym Hornostai > https://github.com/maximilianone, Anastasiia Test > https://github.com/AnastasiiaShliakhta ]
 
 ---
 
