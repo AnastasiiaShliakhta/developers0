@@ -12,7 +12,7 @@ contributors: [ Test Test > https://github.com/BigotryOps, Maksym Hornostai > ht
 
 ---
 
-# Luigi getting started tb-copy
+# Luigi getting started tb-copy?
 <!-- description --> The VM defaults to an English (US) QWERTY keyboard, and the UTC time zone. When prompted, change the keyboard layout and time zone to match your location, or accept the defaults.
 
 ## You will learn
