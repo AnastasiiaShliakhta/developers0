@@ -1,5 +1,5 @@
 ---
-title: Test Blue Install the SAP HANA Client testgreennn - by Ana Shliakhta in private repository
+title: Test Blue Install the SAP HANA Client testgreennn - by Ana Shliakhta in private repository updated by Dmytro
 description: Test Description text -> Learn about the multiple ways to install the SAP HANA client.
 auto_validation: true
 time: 15
