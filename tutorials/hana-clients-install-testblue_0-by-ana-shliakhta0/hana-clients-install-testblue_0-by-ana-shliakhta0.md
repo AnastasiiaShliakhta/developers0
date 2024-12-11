@@ -7,7 +7,7 @@ primary_tag: programming-tool>devops
 tags: [ tutorial>beginner, programming-tool>internationalization-and-unicode ]
 author_name: Anastasiia Shliakhta
 author_profile: https://github.com/AnastasiiaShliakhta
-contributors: [ Test Test > https://github.com/BigotryOps, Maksym Hornostai > https://github.com/maximilianone, Anastasiia Shliakhta > https://github.com/AnastasiiaShliakhta ]
+
 
 ---
 
